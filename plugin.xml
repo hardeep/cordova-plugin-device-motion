@@ -4,7 +4,7 @@
            id="org.apache.cordova.core.device-motion"
       version="0.1.0">
 	
-    <name>Device Motion</name>
+    <name>devicemotion</name>
 
     <js-module src="www/Acceleration.js" name="Acceleration">
         <clobbers target="Acceleration" />
